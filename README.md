@@ -22,4 +22,4 @@
 - Seamless integration between frontend and backend using Axios for HTTP requests
 
 ### Project Link
-https:missmo.vercel.app
+https//:missmo.vercel.app
